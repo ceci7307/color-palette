@@ -1,0 +1,11 @@
+.boks-0,
+.boks-1,
+.boks-2,
+.boks-3,
+.boks-4 {
+  width: 200px;
+  height: 200px;
+  border: solid 1px black;
+  margin: 15px;
+  display: inline-block;
+}
